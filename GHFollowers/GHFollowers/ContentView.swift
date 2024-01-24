@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  GitHub Followers
+//  GHFollowers
 //
 //  Created by shawn on 1/23/24.
 //
